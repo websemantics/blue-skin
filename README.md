@@ -16,7 +16,8 @@
 ```
 > Blue themed flaviour of PyroCMS admin
 
-![](https://github.com/websemantics/blue-skin/raw/master/resources/img/blue.png)
+| ![](https://github.com/websemantics/blue-skin/raw/master/resources/img/blue.png) |
+|---|
 
 ## Install
 
