@@ -1,0 +1,19 @@
+{
+    "name": "websemantics/blue-skin",
+    "description": "Blue themed flaviour of PyroCMS admin",
+    "type": "pyrocms-theme-skin",
+    "keywords": [
+        "websemantics",
+        "pyrocms",
+        "theme",
+        "skin"
+    ],
+    "require": {
+        "websemantics/pyrocms-theme": "*"
+    },
+    "autoload": {
+        "psr-4": {
+          "Websemantics\\BlueSkin\\": "src/"
+        }
+    }
+}
