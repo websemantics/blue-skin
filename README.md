@@ -16,6 +16,8 @@
 ```
 > Blue themed flaviour of PyroCMS admin
 
+![](https://github.com/websemantics/github-skin/raw/master/resources/img/blue.png)
+
 ## Install
 
 1- Use `composer ` to install,
