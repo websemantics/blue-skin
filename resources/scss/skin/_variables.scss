@@ -3,18 +3,21 @@
 //
 
 /* brand variables */
-$brand-bg: hsl(220, 36%, 28%);
-$brand-logo-color: $white;
+$brand-primary: hsl(220, 36%, 28%);
+$brand-bg: $brand-primary;
+$brand-logo-color: #fff;
 $brand-logo-opacity: 1;
 
 /* header variables */
-$header-bg: $white;
+$header-bg: #fff;
 
 /* toggle button variables */
+$toggle-bg: $brand-primary;
 $toggle-text-color: rgba(255, 255, 255, 0.3);
 
 /* sidebar variables */
 $sidebar-bg: hsl(220, 36%, 30%);
+$sidebar-active-bg: lighten($sidebar-bg, 4%);
 $sidebar-icon-float: right;
 $sidebar-icon-color: hsl(220, 36%, 65%);
 $sidebar-text-color: hsl(220, 36%, 75%);
